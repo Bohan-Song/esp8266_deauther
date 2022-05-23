@@ -1,0 +1,5 @@
+IO4  SCL
+IO5  SDA
+LED  IO2
+12 14 13
+上 ok 下
