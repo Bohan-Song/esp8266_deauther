@@ -11,7 +11,7 @@
 // #define NODEMCU
 // #define WEMOS_D1_MINI
 // #define HACKHELD_VEGA
-// #define DISPLAY_EXAMPLE_I2C
+#define DISPLAY_EXAMPLE_I2C
 // #define DISPLAY_EXAMPLE_SPI
 
 // #define MALTRONICS
