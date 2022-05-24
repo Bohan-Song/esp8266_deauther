@@ -544,7 +544,7 @@ const char W_BAD_PATH[] PROGMEM = "BAD PATH";
 const char W_FILE_NOT_FOUND[] PROGMEM = "ERROR 404 File Not Found";
 const char W_STARTED_AP[] PROGMEM = "Started AP";
 const char W_WEBINTERFACE[] PROGMEM = "/web"; // default folder containing the web files
-const char W_DEFAULT_LANG[] PROGMEM = "/lang/cn.lang";
+const char W_DEFAULT_LANG[] PROGMEM = "/lang/default.lang";
 
 const char W_HTML[] PROGMEM = "text/html";
 const char W_CSS[] PROGMEM = "text/css";

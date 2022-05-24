@@ -8,10 +8,19 @@
 
 #define DEFAULT_ESP8266
 
+#define SSD1306_I2C
+#define I2C_ADDR 0x3C
+#define I2C_SDA 5 // 
+#define I2C_SCL 4 // 
+
+#define BUTTON_UP 12
+#define BUTTON_DOWN 13
+#define BUTTON_A 14
+// #define BUTTON_B 255
 // #define NODEMCU
 // #define WEMOS_D1_MINI
 // #define HACKHELD_VEGA
-#define DISPLAY_EXAMPLE_I2C
+// #define DISPLAY_EXAMPLE_I2C
 // #define DISPLAY_EXAMPLE_SPI
 
 // #define MALTRONICS
