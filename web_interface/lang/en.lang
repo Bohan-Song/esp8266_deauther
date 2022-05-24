@@ -1,8 +1,8 @@
 {
     "lang": "en",
-    "warning": "WARNING",
-    "disclaimer": "This project is a proof of concept for testing and educational purposes.\nNeither the ESP8266, nor its SDK was meant or build for such purposes. Bugs can occur!\n\nUse it only against your own networks and devices!\n\nIt uses valid Wi-Fi frames described in the IEEE 802.11 standard and does not block or disrupt any frequencies.\nPlease check the legal regulations in your country before using it.\n\nPlease don't refer to this project as \"jammer\", that totally undermines the real purpose of this project!\nIf you do, it only proves that you didn't understand anything of what this project stands for.\nPublishing content about this without without a proper explanation shows that you only do it for the clicks, fame and/or money and have no respect for intellectual property, the community behind it and the fight for a better WiFi standard.\n\nFor more information visit:",
-	"disclaimer-button": "I have read and understood the notice above",
+    "warning": "ESP8266",
+    "disclaimer"::",
+	"disclaimer-button": "15 S Click",
 	"reload": "Reload",
 	"scan": "Scan",
 	"ssids": "SSIDs",

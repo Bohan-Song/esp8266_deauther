@@ -13,9 +13,9 @@
 #define I2C_SDA 5 // 
 #define I2C_SCL 4 // 
 
-#define BUTTON_UP 12
-#define BUTTON_DOWN 13
-#define BUTTON_A 14
+#define BUTTON_UP 12    //D6
+#define BUTTON_DOWN 13  //D7
+#define BUTTON_A 14     //D5
 // #define BUTTON_B 255
 // #define NODEMCU
 // #define WEMOS_D1_MINI
@@ -616,10 +616,10 @@
 
 // ======== CONSTANTS ========== //
 // Do not change these values unless you know what you're doing!
-#define DEAUTHER_VERSION "2.6.1"
-#define DEAUTHER_VERSION_MAJOR 2
-#define DEAUTHER_VERSION_MINOR 6
-#define DEAUTHER_VERSION_REVISION 1
+#define DEAUTHER_VERSION "1.0.0"
+#define DEAUTHER_VERSION_MAJOR 1
+#define DEAUTHER_VERSION_MINOR 0
+#define DEAUTHER_VERSION_REVISION 0
 
 #define EEPROM_SIZE 4095
 #define BOOT_COUNTER_ADDR 1
